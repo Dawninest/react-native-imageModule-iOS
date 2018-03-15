@@ -10,5 +10,5 @@ ReactNative NativeModule imageModule (iOS only)
 
 没有android(因为不会Java) 
 
-只有 中文说明(第二外语是日语而且英文超烂) 
+只有 中文说明(第二语言是日语而且英文超烂) 
 
